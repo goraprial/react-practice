@@ -1,6 +1,6 @@
 **Consejos para antes de empezar:**
 
-  _Para no complicarnos seguir los pasos del ejercicio de forma ordenada, item por item._
+  _Para no complicarnos realizar los pasos del ejercicio de forma ordenada, item por item._
   
    _Revisar los nombres de las funciones y las variables, que sean auto explicativas._ 
   

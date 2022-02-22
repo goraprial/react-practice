@@ -20,7 +20,7 @@ Volvemos a la terminal y **posicionados sobre la ruta del proyecto** hacemos:
 
 #### Levantar la aplicación
 Finalmente podremos levantar la aplicación con:
-`npm start` lo que abrirá una página _http://localhost:3000/_ para poder ver los cambios que hagamos en el código de manera simultanea.
+`npm start` lo que abrirá una página por defecto en _http://localhost:3000/_ para poder ver los cambios que hagamos en el código de manera simultanea.
 
 >Para más información sobre la instalación con npx y npm se puede consultar la siguiente documentación: 
 >- https://create-react-app.dev/docs/getting-started

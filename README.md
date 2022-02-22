@@ -1,6 +1,7 @@
 # ¡Bienvenidx a React!
 
 Esta es una lista de ejercicios de básicos para empezar a trabajar con React.
+
 Los ejercicios se encuentran en la carpeta [Ejercicios](https://github.com/goraprial/react-practice/tree/main/Ejercicios).
 
 ¡Buena suerte!
@@ -22,7 +23,7 @@ para movernos a la carpeta que npx creó, si contamos con vs code podemos hacer:
 Volvemos a la terminal y **posicionados sobre la ruta del proyecto** hacemos:
 `npm i` para que se nos instale la carpeta de _node-modules_ junto con las dependencias y librerías que trae React
 
-#### Levantar la aplicación
+### Levantar la aplicación
 
 Finalmente podremos levantar la aplicación con:
 `npm start` lo que abrirá una página por defecto en _http://localhost:3000/_ para poder ver los cambios que hagamos en el código de manera simultanea.

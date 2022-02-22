@@ -14,6 +14,6 @@
 - Hacer que se muestre por consola esta variable 
 - Eliminar el console log y renderizar el mensaje en la página por medio de JSX
 ### Ejercicio 2 - *Alert button* 
-- Crear un botón que al tocarlo muestre la alerta _"Has precionado el botón"_
+- Crear un botón que al tocarlo muestre la alerta _"Has presionado el botón"_
 - Hacer otros 2 botones, cada uno de los tres botones tiene que dar el mensaje _"Has presionado el botón x "_
 > Tip: usar la función de js **alert( )**

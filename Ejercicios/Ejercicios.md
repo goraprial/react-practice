@@ -1,10 +1,11 @@
 **Consejos para antes de empezar:**
 
+  _Para no complicarnos seguir los pasos del ejercicio de forma ordenada, item por item._
+  
+   _Revisar los nombres de las funciones y las variables, que sean auto explicativas._ 
+  
   _Cada vez que finalizamos un ejercicio hay que priorizar emprolijar el código lo más que se pueda, tener en cuenta que tiene que ser entendible para alguien más._
   
- _Revisar los nombres de las funciones y las variables, que sean auto explicativas._ 
-  
-  _Para no complicarnos seguir los pasos del ejercicio de forma ordenada, item por item._
   
   ---
 ### Ejercicio 1 - *Hello World* 

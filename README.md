@@ -1,6 +1,8 @@
 # ¡Bienvenidx a React!
 
 Esta es una lista de ejercicios de básicos para empezar a trabajar con React.
+Los ejercicios se encuentran en la carpeta [Ejercicios](https://github.com/goraprial/react-practice/tree/main/Ejercicios).
+
 ¡Buena suerte!
 
 ## Inicialización de un proyecto React

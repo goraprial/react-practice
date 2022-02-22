@@ -11,8 +11,9 @@ Los ejercicios se encuentran en la carpeta [Ejercicios](https://github.com/gorap
 Para crear un proyecto de React debemos posicionarnos con la terminal sobre la carpeta donde queramos guardarlo.
 
 Una vez en la carpeta ejecutamos el comando:
+
 `npx create-react-app my-app`
-_(Podemos reemplazar \_my-app_ por el nombre que queramos asignarle)\_
+_(Podemos reemplazar my-app por el nombre que queramos asignarle)_
 La terminal va a proceder a hacer la instalación del proyecto.
 
 Finalizada la instalación ejecutamos:

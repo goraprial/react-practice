@@ -34,4 +34,4 @@ Vamos a reutilizar los botones del ejercicio anterior.
 onClick={() => ()}
 ```
 - El texto de la página deberá actualizarse cada vez que sumemos un valor más.
-- Para finalizar, hacer una función ´handleAdd´ dentro del componente del contador la cual le asigne un **setState** a nuestra variable y sea llamada por el evento **onClick**
+- Para finalizar, hacer una función `handleAdd` dentro del componente del contador la cual le asigne un **setState** a nuestra variable y sea llamada por el evento **onClick**

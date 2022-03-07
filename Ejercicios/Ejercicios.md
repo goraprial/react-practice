@@ -31,7 +31,7 @@ Vamos a reutilizar los botones del ejercicio anterior.
 - La página debe mostrar un texto que diga "Contador: x". (La X será una variable "value" que vamos a manejar con UseState y vamos la vamos a inicializar como "0").
 - Crear un botón debajo que al clickearlo sume + 1 a la variable value por medio de SetState, el cual vamos a llamar dentro del evento 
 ```javascript
-onClick={() => ()}
+onClick={() => (...)}
 ```
 - El texto de la página deberá actualizarse cada vez que sumemos un valor más.
 - Para finalizar, hacer una función `handleAdd` dentro del componente del contador la cual le asigne un **setState** a nuestra variable y sea llamada por el evento **onClick**

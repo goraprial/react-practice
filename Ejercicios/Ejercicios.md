@@ -23,7 +23,7 @@ Vamos a reutilizar los botones del ejercicio anterior.
 - La función que genera la alerta debe ser una sola y se le debe enviar por props la propiedad **value**, así cada button hace uso de una sola función. Para empezar basta con que cada vez que llamamos al alert diga _"Has presionado el botón"_
 - Para darle uso a la propiedad que le enviamos a la función, pasarle al alert la variable **value** de tal manera que ahora cuando se toque un botón nos diga _"Has presionado el botón x"_
 ### Ejercicio 4 - *Components*
-- Crear un componente aparte de App, por ahora lo vamos a hacer Hermano de App, este deberá llamarse **AlertButton** y es necesario importarlo en App. Toda la lógica del botón hay que moverla al nuevo componente y desde App solo llamar al Tag `<AlertButton/>` tres veces para tener los 3 botones originales. 
+- Crear un componente aparte de App, por ahora lo vamos a hacer Hermano de App, este deberá llamarse `AlertButton` y es necesario importarlo en `App`. Toda la lógica del botón hay que moverla al nuevo componente y desde App solo llamar al Tag `<AlertButton/>` tres veces para tener los 3 botones originales. 
 
 ### Ejercicio 5 - *Hook UseState*
 - Leer la documentación de [Introducción a Hooks](https://reactjs.org/docs/hooks-state.html) y [UseState](https://reactjs.org/docs/hooks-state.html). Recuerden que nosotros vamos a trabajar con **componentes funcionales** y no con componentes de clase.
@@ -34,4 +34,8 @@ Vamos a reutilizar los botones del ejercicio anterior.
 onClick={() => (...)}
 ```
 - El texto de la página deberá **actualizarse** cada vez que sumemos un valor más.
-- Para finalizar, hacer una función `handleAdd` dentro del componente del contador la cual le asigne un `setState` a nuestra variable y sea llamada por el evento **onClick**
+- Para finalizar, hacer una función `handleAdd` dentro del componente del contador la cual le asigne un `setState` a nuestra variable y sea llamada por el evento `onClick`
+#### Ejemplo
+![Peek 07-03-2022 11-32](https://user-images.githubusercontent.com/83319295/157053869-e27764dd-e480-4487-825f-a97f7faad0c6.gif)
+
+

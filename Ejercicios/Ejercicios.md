@@ -25,10 +25,10 @@ Vamos a reutilizar los botones del ejercicio anterior.
 ### Ejercicio 4 - *Components*
 - Crear un componente aparte de App, por ahora lo vamos a hacer Hermano de App, este deberá llamarse `AlertButton` y es necesario importarlo en `App`. Toda la lógica del botón hay que moverla al nuevo componente y desde App solo llamar al Tag `<AlertButton/>` tres veces para tener los 3 botones originales. 
 
-### Ejercicio 5 - *Hook UseState*
-- Leer la documentación de [Introducción a Hooks](https://reactjs.org/docs/hooks-state.html) y [UseState](https://reactjs.org/docs/hooks-state.html). Recuerden que nosotros vamos a trabajar con **componentes funcionales** y no con componentes de clase.
+### Ejercicio 5 - *Hook useState*
+- Leer la documentación de [Introducción a Hooks](https://reactjs.org/docs/hooks-state.html) y [useState](https://reactjs.org/docs/hooks-state.html). Recuerden que nosotros vamos a trabajar con **componentes funcionales** y no con componentes de clase.
 - Dentro de la carpeta **src** crearemos una carpeta llamada **components** y dentro de esta crearemos un componente llamado `Counter.js`
-- La página debe mostrar un texto que diga **"Contador: x"** *(La X será una variable "value" que vamos a manejar con UseState y vamos la vamos a inicializar como "0")*
+- La página debe mostrar un texto que diga **"Contador: x"** *(La X será una variable "value" que vamos a manejar con useState y vamos la vamos a inicializar como "0")*
 - Crear un botón debajo que al clickearlo sume **+ 1** a la variable value por medio de `setState` el cual vamos a llamar dentro del evento 
 ```javascript
 onClick={() => (...)}
